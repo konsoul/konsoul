@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @konsoul
-- 👀 I’m interested in JavaScript, React and backend
-- 🌱 I’m currently learning React
-- 💞️ I’m working for Clarity
+- 👀 I am learning Unreal Engine
+- Building a game from scratch
+
+
 
 <!---
 konsoul/konsoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
